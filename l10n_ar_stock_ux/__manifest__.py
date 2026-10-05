@@ -1,6 +1,6 @@
 {
     "name": "Remitos, COT y demas ajustes de stock para Argentina",
-    "version": "19.0.1.1.0",
+    "version": "19.0.1.1.1",
     "category": "Localization/Argentina",
     "sequence": 14,
     "author": "ADHOC SA",
@@ -9,7 +9,6 @@
     "depends": [
         "l10n_ar_stock",
         "l10n_ar_ux",
-        "stock_picking_invoice_link",
         "stock_ux",
         # esta dependencia es solo por el campo declared value para:
         # a) reporte de remito
